@@ -37,7 +37,7 @@ Insurance Data Analysis/
 > B.Tech CSE | Bennett University  
 > Data Analytics & AI Enthusiast
 
-- 📧 Email: [technoadityaraj@gmail.com](mailto:technoadityaraj@gmail.com)  
+- 📧 Email: [aditya.work0902@gmail.com](mailto:aditya.work0902@gmail.com)  
 - 💻 GitHub: [@Aditya-0009](https://github.com/Aditya-0009)  
 - 👔 LinkedIn: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-0009/)  
 - 📸 Instagram: [@ig._adi_](https://www.instagram.com/ig._adi_/)

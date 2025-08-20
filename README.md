@@ -7,11 +7,11 @@ This project analyzes insurance data, focusing on claims, policy types, and prem
 ```
 Insurance Data Analysis/
 │
-├─ Insurance Data Analysis - Report.pdf # Full project report (downloadable)
-├─ Insurance Data Analysis.pbix # Power BI file to explore the dashboard
+├─ Insurance Data Analysis - Report.pdf 
+├─ Insurance Data Analysis.pbix 
 ├─ InsuranceData.csv # Dataset used for analysis
-├─ PowerBI Dashboard.png # Screenshot of the full dashboard/report
-└─ README.md # Project description
+├─ PowerBI Dashboard.png 
+└─ README.md 
 ```
 
 ## Dashboard Screenshot  
